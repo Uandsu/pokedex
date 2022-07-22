@@ -13,7 +13,7 @@ Uma pokedex usando javascript e api da propria pokedex para um treininho.
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Uandsu/pokedex
+git clone (https://github.com/Uandsu/pokedex)
 # Entre no diretório
 cd pokedex
 ```
